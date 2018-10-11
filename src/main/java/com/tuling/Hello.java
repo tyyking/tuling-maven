@@ -1,7 +1,7 @@
 package com.tuling;
 public class Hello{
 	public String fun(){
-		return "success4";
+		return "success5";
 	}
 
 }
